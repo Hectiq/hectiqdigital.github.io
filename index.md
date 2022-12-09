@@ -1,12 +1,47 @@
 ---
-title: Coming soon
-layout: default
+title: Hectiq Digital - Home
+layout: portfolio
+mission_c1: "Our mission is to provide industries with the best real-time tools and technologies."
+mission_c2: "Our team provides the entertainment, architecture, and manufacturing industries with the best tools and technologies from the real-time industry. We aim to be the bridge between the real-time industry and the rest of the business world, bringing the latest advancements in real-time technology to a wide range of industries."
+mission_c3: "Our goal is to help these industries improve their productivity and stay ahead of the competition by leveraging the power of real-time technology. We are dedicated to providing our clients with the highest quality solutions and exceptional customer support."
+services_1_title: "Tools for DCC Application"
+services_2_title: "Real-Time Experiences"
+services_3_title: "3D Consulting"
+services_1: "Development of tools and technologies for the real-time industry"
+services_2: "Provision of real-time technology solutions to the entertainment, architecture, and manufacturing industries"
+services_3: "Assistance with implementing and utilizing real-time technology in these industries"
+invite_1: "Check out the services offered by our team, and don't hesitate to reach out"
+invite_2: "Take a look at the services we offer, and feel free to contact us with any questions or inquiries."
+process: "Our team works with the client to understand their needs, designs and develops a custom solution, and helps implement and deploy the product, providing training and support."
+chose_us_1: "Our studio has proven experience in the real-time industry, and we are dedicated professionals who prioritize collaboration with our clients."
+chose_us_2: "We offer a range of services, including development of custom tools and technologies, implementation and utilization of real-time technology, and ongoing support and customer service."
+chose_us_3: "We have helped many clients in the entertainment, architecture, and manufacturing industries improve their productivity and stay ahead of the competition."
+lets_talk_title: "Want to discuss your new project?"
+lets_talk_content: "We would like to invite you to discuss your real-time technology needs with us. Our studio has proven experience and we offer a range of services to help you succeed."
+contact_sub: "We are happy to hear from you"
+contact_phone: "+33(0) 6 10 15 17 16"
+contact_address: "38 Rue des Bahutiers"
+contact_address_map: "https://goo.gl/maps/yB3s7yxKwZxKCjTL9"
+contact_mail: "contact@hectiq.digital"
+team_name_1: "Luca Pierabella"
+team_role_1: "Developer"
+team_hello_1: "Hi!"
+team_desc_1: ""
+team_linkedin_1: "https://www.linkedin.com/in/luca-pierabella-93308413/"
+team_name_2: "Romain Grosse"
+team_role_2: "Programmer"
+team_hello_2: "Hello & Welcome!"
+team_desc_2: ""
+team_linkedin_2: "https://www.linkedin.com/in/romain-grosse-1721ba24a/"
+team_name_3: "Selmar Kok"
+team_role_3: "Programmer"
+team_hello_3: "Whats Up!"
+team_desc_3: "Always striving for excellence!"
+team_linkedin_3: "https://www.linkedin.com/in/selmar-kok-51610627/"
+team_name_4: "Sven Mestas"
+team_role_4: "Designer"
+team_hello_4: "Nice to meet!"
+team_desc_4: ""
+team_linkedin_4: "https://www.linkedin.com/in/svenmestas/"
+portfolio_link_1: ""
 ---
-
-OUR WEBSITE IS COMING SOON
-
-<!--
-You can use HTML elements in Markdown, such as the comment element, and they won't
-be affected by a markdown parser. However, if you create an HTML element in your
-markdown file, you cannot use markdown syntax within that element's contents.
--->
