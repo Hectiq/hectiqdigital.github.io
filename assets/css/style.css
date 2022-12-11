@@ -6302,3 +6302,9 @@ table.shopping-cart-table tr td{
     -webkit-mask-repeat: no-repeat;
     mask-repeat: no-repeat;
   }
+
+.fhp-input{
+    display: none !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
+}

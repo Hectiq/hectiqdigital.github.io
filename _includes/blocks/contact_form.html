@@ -1,0 +1,60 @@
+<!-- Contact Form -->                            
+<div class="row">
+    <div class="col-md-10 offset-md-1">
+        <!-- <form id="my-form-id" method="post" ></form> -->
+
+        <form name="contact_form" class="form contact-form wow fadeInUpShort" action="https://api.formcake.com/api/form/7b999f56-20f0-49d0-98f9-b38824c89e5b/submission" method="post" data-wow-delay=".5s" id="contact_form" target="_self">
+            
+            <div class="row">
+                <div class="col-md-6">
+                    <!-- Name -->
+                    <div class="form-group">
+                        <label for="name">Name</label>
+                        <input type="text" name="name" id="name" class="input-lg round form-control" placeholder="Enter your name" pattern=".{3,100}" required aria-required="true">
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <!-- Email -->
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" name="email" id="email" class="input-lg round form-control" placeholder="Enter your email" pattern=".{5,100}" required aria-required="true">
+                    </div>
+                </div>
+                <!-- PHANTOM ELEMENT ( HONEYPOT CAPTCHA FOR SECURITY ) -->
+                  <div class="form-group fhp-input">
+                    <label class="phoneLabel">Phone</label>
+                    <input id="contact-form-phone" type="phone" name="phone" class="form-control" placeholder="Enter your phone"/>
+                  </div>
+                  <!-- /PHANTOM ELEMENT ( HONEYPOT CAPTCHA FOR SECURITY ) -->
+            </div>
+            
+            <!-- Message -->
+            <div class="form-group">
+                <label for="message">Message</label>
+                <textarea name="message" id="message" class="input-lg round form-control" style="height: 130px;" placeholder="Enter your message"></textarea>
+            </div>
+            
+            <div class="row">
+                <div class="col-sm-6">
+                    <!-- Inform Tip -->
+                    <div class="form-tip pt-20 pt-sm-0 mb-sm-20">
+                        All the fields are required
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <!-- Send Button -->
+                    <div class="text-end pt-10">
+                        <button type="submit" class="submit_btn btn btn-mod btn-w btn-large btn-round" id="submit_btn" aria-controls="result" data-sitekey= "6Lf6IyUaAAAAAPTTe__sC4052VzvGcwFlBHeajA0" data-callback="onSubmit" data-action="submit">
+                            Submit Message
+                        </button>
+                    </div>
+                </div>
+            </div>
+           
+           <div id="result" role="region" aria-live="polite" aria-atomic="true"></div>
+           
+        </form>
+        
+    </div>
+</div>
+<!-- End Contact Form -->
